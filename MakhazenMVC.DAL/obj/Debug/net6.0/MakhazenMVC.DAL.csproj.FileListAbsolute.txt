@@ -1,0 +1,14 @@
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.csproj.AssemblyReference.cache
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.AssemblyInfoInputs.cache
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.AssemblyInfo.cs
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.csproj.CoreCompileInputs.cache
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\bin\Debug\net6.0\MakhazenMVC.DAL.deps.json
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\bin\Debug\net6.0\MakhazenMVC.DAL.runtimeconfig.json
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\bin\Debug\net6.0\MakhazenMVC.DAL.dll
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\bin\Debug\net6.0\MakhazenMVC.DAL.pdb
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.dll
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\obj\Debug\net6.0\refint\MakhazenMVC.DAL.dll
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.pdb
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.genruntimeconfig.cache
+E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.DAL\obj\Debug\net6.0\ref\MakhazenMVC.DAL.dll

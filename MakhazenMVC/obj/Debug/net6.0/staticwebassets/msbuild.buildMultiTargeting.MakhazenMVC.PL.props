@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MakhazenMVC.PL.props" />
+</Project>
