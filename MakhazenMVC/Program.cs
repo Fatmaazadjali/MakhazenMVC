@@ -1,3 +1,5 @@
+using MakhazenMVC.BLL.interfaces;
+using MakhazenMVC.BLL.Repository;
 using MakhazenMVC.DAL.Context;
 using Microsoft.EntityFrameworkCore;
 
@@ -15,7 +17,7 @@ namespace MakhazenMVC
             builder.Services.AddDbContext<ApplicationDbContext>(
           options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-
+            builder.Services.AddScoped<IUnitofWork, UnitofWork>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{23444AD8-4EA0-41A9-9A6D-568CD8DC4255}|MakhazenMVC">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MakhazenMVC.BLL/Repository/UnitofWork.cs">
+    <Files>
+      <File FileName="MakhazenMVC.BLL/Repository/UnitofWork.cs" Line="5" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MakhazenMVC.PL PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

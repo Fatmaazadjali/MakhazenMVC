@@ -1,67 +1,134 @@
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.csproj.AssemblyReference.cache
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.GeneratedMSBuildEditorConfig.editorconfig
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.AssemblyInfoInputs.cache
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.AssemblyInfo.cs
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.csproj.CoreCompileInputs.cache
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.MvcApplicationPartsAssemblyInfo.cache
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.RazorAssemblyInfo.cache
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.RazorAssemblyInfo.cs
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\appsettings.Development.json
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\appsettings.json
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\MakhazenMVC.PL.staticwebassets.runtime.json
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\MakhazenMVC.PL.exe
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\MakhazenMVC.PL.deps.json
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\MakhazenMVC.PL.runtimeconfig.json
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\MakhazenMVC.PL.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\MakhazenMVC.PL.pdb
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\System.Drawing.Common.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\System.Security.Permissions.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\MakhazenMVC.BLL.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\MakhazenMVC.DAL.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\MakhazenMVC.BLL.pdb
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\bin\Debug\net6.0\MakhazenMVC.DAL.pdb
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\staticwebassets.build.json
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\staticwebassets.development.json
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\staticwebassets\msbuild.MakhazenMVC.PL.Microsoft.AspNetCore.StaticWebAssets.props
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.MakhazenMVC.PL.props
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MakhazenMVC.PL.props
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MakhazenMVC.PL.props
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\staticwebassets.pack.json
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\scopedcss\bundle\MakhazenMVC.PL.styles.css
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\scopedcss\projectbundle\MakhazenMVC.PL.bundle.scp.css
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.csproj.CopyComplete
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\refint\MakhazenMVC.PL.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.pdb
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\MakhazenMVC.PL.genruntimeconfig.cache
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC\obj\Debug\net6.0\ref\MakhazenMVC.PL.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.csproj.AssemblyReference.cache
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.GeneratedMSBuildEditorConfig.editorconfig
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.AssemblyInfoInputs.cache
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.AssemblyInfo.cs
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.csproj.CoreCompileInputs.cache
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.MvcApplicationPartsAssemblyInfo.cache
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.RazorAssemblyInfo.cache
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.RazorAssemblyInfo.cs
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/appsettings.Development.json
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/appsettings.json
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL.staticwebassets.runtime.json
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL.exe
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL.deps.json
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL.runtimeconfig.json
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL.pdb
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/System.Drawing.Common.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/System.Runtime.Caching.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/System.Security.Permissions.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/System.Windows.Extensions.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.BLL.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.DAL.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.BLL.pdb
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.DAL.pdb
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/staticwebassets.build.json
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/staticwebassets.development.json
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/staticwebassets/msbuild.MakhazenMVC.PL.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/staticwebassets/msbuild.build.MakhazenMVC.PL.props
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MakhazenMVC.PL.props
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MakhazenMVC.PL.props
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/staticwebassets.pack.json
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/scopedcss/bundle/MakhazenMVC.PL.styles.css
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/scopedcss/projectbundle/MakhazenMVC.PL.bundle.scp.css
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.csproj.CopyComplete
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/refint/MakhazenMVC.PL.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.pdb
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.genruntimeconfig.cache
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC/obj/Debug/net6.0/ref/MakhazenMVC.PL.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/appsettings.Development.json
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/appsettings.json
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL.staticwebassets.runtime.json
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL.deps.json
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL.runtimeconfig.json
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.PL.pdb
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.BLL.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.DAL.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.BLL.pdb
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/bin/Debug/net6.0/MakhazenMVC.DAL.pdb
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.csproj.AssemblyReference.cache
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.AssemblyInfoInputs.cache
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.AssemblyInfo.cs
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.csproj.CoreCompileInputs.cache
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.MvcApplicationPartsAssemblyInfo.cache
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.RazorAssemblyInfo.cache
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.RazorAssemblyInfo.cs
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/staticwebassets/msbuild.MakhazenMVC.PL.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/staticwebassets/msbuild.build.MakhazenMVC.PL.props
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MakhazenMVC.PL.props
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MakhazenMVC.PL.props
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/staticwebassets.build.json
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/staticwebassets.development.json
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/scopedcss/bundle/MakhazenMVC.PL.styles.css
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/scopedcss/projectbundle/MakhazenMVC.PL.bundle.scp.css
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.csproj.CopyComplete
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/refint/MakhazenMVC.PL.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.pdb
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/MakhazenMVC.PL.genruntimeconfig.cache
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC/obj/Debug/net6.0/ref/MakhazenMVC.PL.dll

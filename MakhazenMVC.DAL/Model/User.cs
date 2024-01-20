@@ -32,5 +32,6 @@ namespace MakhazenMVC.DAL.Model
         [DataType(DataType.DateTime)]
         public DateTime RegistrationDate { get; set; }
 
+        public object Store { get; set; } //I Add to Solve the error in genericrepository for store
     }
 }
