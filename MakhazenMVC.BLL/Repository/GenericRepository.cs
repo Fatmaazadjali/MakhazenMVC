@@ -33,19 +33,13 @@ namespace MakhazenMVC.BLL.Repository
 
         public IEnumerable<T> GetAll()
         {
-            if (typeof(T) == typeof(Store))
-            {
-                return (IEnumerable<T>)_context.users.Include(e => e.Store).ToList();
 
-            }
-            else
-            {
-                return _context.Set<T>().ToList();
+            return _context.Set<T>().ToList();
 
             }
 
 
-        }
+        
         public int Update(T item)
         {
             _context.Set<T>().Update(item);
