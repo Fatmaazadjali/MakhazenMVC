@@ -1,15 +1,30 @@
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.csproj.AssemblyReference.cache
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.GeneratedMSBuildEditorConfig.editorconfig
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.AssemblyInfoInputs.cache
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.AssemblyInfo.cs
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.csproj.CoreCompileInputs.cache
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\bin\Debug\net6.0\MakhazenMVC.BLL.deps.json
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\bin\Debug\net6.0\MakhazenMVC.BLL.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\bin\Debug\net6.0\MakhazenMVC.BLL.pdb
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\bin\Debug\net6.0\MakhazenMVC.DAL.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\bin\Debug\net6.0\MakhazenMVC.DAL.pdb
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.csproj.CopyComplete
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\obj\Debug\net6.0\refint\MakhazenMVC.BLL.dll
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.pdb
-E:\Makeen\repo\MakhazenMVC solution\MakhazenMVC.BLL\obj\Debug\net6.0\ref\MakhazenMVC.BLL.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.csproj.AssemblyReference.cache
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.AssemblyInfoInputs.cache
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.AssemblyInfo.cs
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.csproj.CoreCompileInputs.cache
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/bin/Debug/net6.0/MakhazenMVC.BLL.deps.json
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/bin/Debug/net6.0/MakhazenMVC.BLL.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/bin/Debug/net6.0/MakhazenMVC.BLL.pdb
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/bin/Debug/net6.0/MakhazenMVC.DAL.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/bin/Debug/net6.0/MakhazenMVC.DAL.pdb
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.csproj.CopyComplete
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/obj/Debug/net6.0/refint/MakhazenMVC.BLL.dll
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.pdb
+E:/Makeen/repo/MakhazenMVC solution/MakhazenMVC.BLL/obj/Debug/net6.0/ref/MakhazenMVC.BLL.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/bin/Debug/net6.0/MakhazenMVC.BLL.deps.json
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/bin/Debug/net6.0/MakhazenMVC.BLL.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/bin/Debug/net6.0/MakhazenMVC.BLL.pdb
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/bin/Debug/net6.0/MakhazenMVC.DAL.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/bin/Debug/net6.0/MakhazenMVC.DAL.pdb
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.csproj.AssemblyReference.cache
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.AssemblyInfoInputs.cache
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.AssemblyInfo.cs
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.csproj.CoreCompileInputs.cache
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.csproj.CopyComplete
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/refint/MakhazenMVC.BLL.dll
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.pdb
+/Users/abc/Projects/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/ref/MakhazenMVC.BLL.dll
