@@ -31,5 +31,8 @@ namespace MakhazenMVC.DAL.Model
 
         public bool premiumAccount { get; set; }
 
-    }
+		[ForeignKey("ProviderId")]
+		ICollection<Provider> Providers { get; set; } = new HashSet<Provider>();
+
+	}
 }

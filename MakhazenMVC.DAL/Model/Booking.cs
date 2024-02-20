@@ -22,6 +22,8 @@ namespace MakhazenMVC.DAL.Model
             public DateTime BookingDate { get; set; }
             public string Status { get; set; } // Enum
             public int PaymentID { get; set; }
+
+           
         }
     
 }

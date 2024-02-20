@@ -18,7 +18,12 @@ namespace MakhazenMVC.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        public IActionResult Login()
         {
             return View();
         }

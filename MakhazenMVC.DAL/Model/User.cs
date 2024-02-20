@@ -33,5 +33,10 @@ namespace MakhazenMVC.DAL.Model
         public DateTime RegistrationDate { get; set; }
 
         //public object Store { get; set; } //I Add to Solve the error in genericrepository for store
+
+        [ForeignKey("BookingID")]
+        ICollection<Booking> Bookings { get; set; } = new HashSet<Booking>();
+
+        ICollection<Review> Reviews { get; set; } = new HashSet<Review>();
     }
 }

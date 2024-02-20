@@ -1,0 +1,91 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('./images/Bookinh.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.booking-form {
+    max-width: 400px;
+    border: 2px solid #ced4da;
+    margin: 10% auto 0;
+}
+
+.booking-form {
+    padding: 0 20px 50px;
+}
+
+    .booking-form label {
+        margin-bottom: 5px;
+        margin-top: 10px;
+        font-size: 20px;
+        color: #000;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+input::placeholder {
+    color: #fff !important;
+}
+
+.input {
+    width: 150px;
+    display: inline-block;
+    /* justify-content: space-between; */
+}
+
+.form-control {
+    font-size: 12px !important;
+    border-radius: 0 !important;
+    color: #fff !important;
+    background: transparent !important;
+    box-shadow: none !important;
+}
+
+.select-date::-webkit-inner-spin-button,
+.select-date::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.select-date::-calendar-inner-spin-button {
+    background: transparent !important;
+}
+
+.size {
+    color: #fff !important;
+    font-size: 12px !important;
+    border: 2px solid #ced4da !important;
+    box-shadow: none !important;
+    border-radius: 0% !important;
+    background: transparent !important;
+}
+
+    .size option {
+        color: #333;
+    }
+
+.store {
+    width: 100%;
+    padding: 9px 0 !important;
+    font-size: 12px;
+    border: 2px solid #fff !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    border-radius: 0 !important;
+}
+
+    .store:hover {
+        background: #fff !important;
+        color: #000 !important;
+        transition: 0.5s;
+    }
+
+.inputt {
+    margin-top: 30px;
+}
