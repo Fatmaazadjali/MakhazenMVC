@@ -65,7 +65,7 @@ body {
 .ag-courses-item_link {
     display: block;
     padding: 30px 20px;
-    background-color: #121212;
+    background-color: whitesmoke;
     overflow: hidden;
     position: relative;
 }
@@ -73,7 +73,7 @@ body {
     .ag-courses-item_link:hover,
     .ag-courses-item_link:hover .ag-courses-item_date {
         text-decoration: none;
-        color: #FFF;
+        color: black;
     }
 
         .ag-courses-item_link:hover .ag-courses-item_bg {
@@ -88,14 +88,14 @@ body {
     overflow: hidden;
     font-weight: bold;
     font-size: 30px;
-    color: #FFF;
+    color: #070F2B;
     z-index: 2;
     position: relative;
 }
 
 .ag-courses-item_date-box {
     font-size: 18px;
-    color: #FFF;
+    color: black;
     z-index: 2;
     position: relative;
 }
@@ -175,8 +175,6 @@ body {
         font-size: 16px;
     }
 }
-
-
 
 
 

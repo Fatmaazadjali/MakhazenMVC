@@ -1,19 +1,37 @@
 ﻿<Properties StartupConfiguration="{23444AD8-4EA0-41A9-9A6D-568CD8DC4255}|MakhazenMVC">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MakhazenMVC.BLL/Repository/UnitofWork.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MakhazenMVC/Controllers/BookingController.cs">
     <Files>
-      <File FileName="MakhazenMVC.BLL/Repository/UnitofWork.cs" Line="5" Column="37" />
+      <File FileName="MakhazenMVC/Views/Home/Index.cshtml" Line="51" Column="1" />
+      <File FileName="MakhazenMVC/wwwroot/css/site.css" Line="93" Column="24" />
+      <File FileName="MakhazenMVC/Views/Shared/_Layout.cshtml" Line="35" Column="69" />
+      <File FileName="MakhazenMVC/Controllers/BookingController.cs" Line="1" Column="1" />
+      <File FileName="MakhazenMVC/Views/Booking/Booking.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="MakhazenMVC solution" expanded="True">
+            <Node name="MakhazenMVC.PL">
+              <Node name="Controllers" expanded="True">
+                <Node name="BookingController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.MakhazenMVC.PL PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
