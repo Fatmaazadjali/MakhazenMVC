@@ -59,3 +59,19 @@ C:/Users/admin/Source/Repos/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/ref/Mak
 /Users/abc/Desktop/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/refint/MakhazenMVC.BLL.dll
 /Users/abc/Desktop/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/MakhazenMVC.BLL.pdb
 /Users/abc/Desktop/MakhazenMVC/MakhazenMVC.BLL/obj/Debug/net6.0/ref/MakhazenMVC.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\bin\Debug\net6.0\MakhazenMVC.BLL.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\bin\Debug\net6.0\MakhazenMVC.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\bin\Debug\net6.0\MakhazenMVC.BLL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\bin\Debug\net6.0\MakhazenMVC.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\bin\Debug\net6.0\MakhazenMVC.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.sourcelink.json
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.csproj.CopyComplete
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\obj\Debug\net6.0\refint\MakhazenMVC.BLL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\obj\Debug\net6.0\MakhazenMVC.BLL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.BLL\obj\Debug\net6.0\ref\MakhazenMVC.BLL.dll

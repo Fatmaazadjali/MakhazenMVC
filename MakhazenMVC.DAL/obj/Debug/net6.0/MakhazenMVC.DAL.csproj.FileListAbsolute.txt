@@ -55,3 +55,18 @@ C:/Users/admin/Source/Repos/MakhazenMVC/MakhazenMVC.DAL/obj/Debug/net6.0/ref/Mak
 /Users/abc/Desktop/MakhazenMVC/MakhazenMVC.DAL/obj/Debug/net6.0/MakhazenMVC.DAL.pdb
 /Users/abc/Desktop/MakhazenMVC/MakhazenMVC.DAL/obj/Debug/net6.0/MakhazenMVC.DAL.genruntimeconfig.cache
 /Users/abc/Desktop/MakhazenMVC/MakhazenMVC.DAL/obj/Debug/net6.0/ref/MakhazenMVC.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\bin\Debug\net6.0\MakhazenMVC.DAL.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\bin\Debug\net6.0\MakhazenMVC.DAL.runtimeconfig.json
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\bin\Debug\net6.0\MakhazenMVC.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\bin\Debug\net6.0\MakhazenMVC.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.sourcelink.json
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\obj\Debug\net6.0\refint\MakhazenMVC.DAL.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\obj\Debug\net6.0\MakhazenMVC.DAL.genruntimeconfig.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\MakhazenMVC\MakhazenMVC.DAL\obj\Debug\net6.0\ref\MakhazenMVC.DAL.dll

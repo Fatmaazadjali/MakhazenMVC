@@ -4,7 +4,7 @@ namespace MakhazenMVC.PL.Controllers
 {
 	public class BookingController : Controller
 	{
-		public IActionResult Index()
+		public IActionResult Booking()
 		{
 			return View();
 		}

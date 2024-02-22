@@ -1945,33 +1945,40 @@
     ]
   },
   "packageFolders": {
-    "/Users/abc/.nuget/packages/": {}
+    "C:\\Users\\abu_a\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/abc/Desktop/MakhazenMVC/MakhazenMVC/MakhazenMVC.PL.csproj",
+      "projectUniqueName": "C:\\Users\\abu_a\\OneDrive\\سطح المكتب\\MakhazenMVC\\MakhazenMVC\\MakhazenMVC.PL.csproj",
       "projectName": "MakhazenMVC.PL",
-      "projectPath": "/Users/abc/Desktop/MakhazenMVC/MakhazenMVC/MakhazenMVC.PL.csproj",
-      "packagesPath": "/Users/abc/.nuget/packages/",
-      "outputPath": "/Users/abc/Desktop/MakhazenMVC/MakhazenMVC/obj/",
+      "projectPath": "C:\\Users\\abu_a\\OneDrive\\سطح المكتب\\MakhazenMVC\\MakhazenMVC\\MakhazenMVC.PL.csproj",
+      "packagesPath": "C:\\Users\\abu_a\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abu_a\\OneDrive\\سطح المكتب\\MakhazenMVC\\MakhazenMVC\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/abc/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\abu_a\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/abc/Desktop/MakhazenMVC/MakhazenMVC.BLL/MakhazenMVC.BLL.csproj": {
-              "projectPath": "/Users/abc/Desktop/MakhazenMVC/MakhazenMVC.BLL/MakhazenMVC.BLL.csproj"
+            "C:\\Users\\abu_a\\OneDrive\\سطح المكتب\\MakhazenMVC\\MakhazenMVC.BLL\\MakhazenMVC.BLL.csproj": {
+              "projectPath": "C:\\Users\\abu_a\\OneDrive\\سطح المكتب\\MakhazenMVC\\MakhazenMVC.BLL\\MakhazenMVC.BLL.csproj"
             }
           }
         }
@@ -2010,7 +2017,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
